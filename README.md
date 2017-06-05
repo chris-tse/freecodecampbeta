@@ -8,7 +8,7 @@ Progress:
 - Regular Expressions (Not started)
 - Debugging (Not started)
 - Basic Data Structures (Not started)
-- Basic Algorithm Scripting (In progress)
+- *Basic Algorithm Scripting (In progress)*
 - Object Oriented Programming (Not started)
 - Functional Programming (Not started)
 - **Intermediate Algorithm Scripting (Complete)**
